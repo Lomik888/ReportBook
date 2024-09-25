@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA184E3C-13FE-4F09-A897-D12A6AEB56C6}|ReportBook.Application\\ReportBook.Application.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA184E3C-13FE-4F09-A897-D12A6AEB56C6}|ReportBook.Application\\ReportBook.Application.csproj|solutionrelative:reportbook.application\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.domain\\result\\collectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|solutionrelative:reportbook.domain\\result\\collectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.domain\\result\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|solutionrelative:reportbook.domain\\result\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.domain\\reportbook.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|solutionrelative:reportbook.domain\\reportbook.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9630625-FEDF-4F3D-9F45-053DE1020A88}|ReportBook.DAL\\ReportBook.DAL.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.dal\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9630625-FEDF-4F3D-9F45-053DE1020A88}|ReportBook.DAL\\ReportBook.DAL.csproj|solutionrelative:reportbook.dal\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9630625-FEDF-4F3D-9F45-053DE1020A88}|ReportBook.DAL\\ReportBook.DAL.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.dal\\reportbook.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9630625-FEDF-4F3D-9F45-053DE1020A88}|ReportBook.DAL\\ReportBook.DAL.csproj|solutionrelative:reportbook.dal\\reportbook.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.domain\\interface\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|solutionrelative:reportbook.domain\\interface\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA184E3C-13FE-4F09-A897-D12A6AEB56C6}|ReportBook.Application\\ReportBook.Application.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.application\\reportbook.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA184E3C-13FE-4F09-A897-D12A6AEB56C6}|ReportBook.Application\\ReportBook.Application.csproj|solutionrelative:reportbook.application\\reportbook.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|c:\\users\\solov\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\reportbook\\reportbook.domain\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427439FA-9AD6-40C7-BE96-ECF1DD246A63}|ReportBook.Domain\\ReportBook.Domain.csproj|solutionrelative:reportbook.domain\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ReportBook.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "ReportBook.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:13:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportBook.DAL",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.DAL\\ReportBook.DAL.csproj",
+              "RelativeDocumentMoniker": "ReportBook.DAL\\ReportBook.DAL.csproj",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.DAL\\ReportBook.DAL.csproj",
+              "RelativeToolTip": "ReportBook.DAL\\ReportBook.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T15:13:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Interface\\Service\\IReportService.cs",
+              "RelativeDocumentMoniker": "ReportBook.Domain\\Interface\\Service\\IReportService.cs",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Interface\\Service\\IReportService.cs",
+              "RelativeToolTip": "ReportBook.Domain\\Interface\\Service\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:10:25.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Application\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "ReportBook.Application\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Application\\Services\\ReportService.cs",
+              "RelativeToolTip": "ReportBook.Application\\Services\\ReportService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:10:08.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportBook.Application",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Application\\ReportBook.Application.csproj",
+              "RelativeDocumentMoniker": "ReportBook.Application\\ReportBook.Application.csproj",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Application\\ReportBook.Application.csproj",
+              "RelativeToolTip": "ReportBook.Application\\ReportBook.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T15:09:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Dto\\ReportDto.cs",
+              "RelativeDocumentMoniker": "ReportBook.Domain\\Dto\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Dto\\ReportDto.cs",
+              "RelativeToolTip": "ReportBook.Domain\\Dto\\ReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:08:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionResult.cs",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Result\\CollectionResult.cs",
+              "RelativeDocumentMoniker": "ReportBook.Domain\\Result\\CollectionResult.cs",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Result\\CollectionResult.cs",
+              "RelativeToolTip": "ReportBook.Domain\\Result\\CollectionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:01:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Result\\BaseResult.cs",
+              "RelativeDocumentMoniker": "ReportBook.Domain\\Result\\BaseResult.cs",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\Result\\BaseResult.cs",
+              "RelativeToolTip": "ReportBook.Domain\\Result\\BaseResult.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBBwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:58:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportBook.Domain",
+              "DocumentMoniker": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\ReportBook.Domain.csproj",
+              "RelativeDocumentMoniker": "ReportBook.Domain\\ReportBook.Domain.csproj",
+              "ToolTip": "C:\\Users\\solov\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ReportBook\\ReportBook.Domain\\ReportBook.Domain.csproj",
+              "RelativeToolTip": "ReportBook.Domain\\ReportBook.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T14:57:32.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 367,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

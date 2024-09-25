@@ -1,0 +1,17 @@
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.DAL.deps.json
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.DAL.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.DAL.pdb
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.Domain.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.Domain.pdb
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.csproj.AssemblyReference.cache
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.AssemblyInfoInputs.cache
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.AssemblyInfo.cs
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBo.6231A45E.Up2Date
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\refint\ReportBook.DAL.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.pdb
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ref\ReportBook.DAL.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.DAL.runtimeconfig.json
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.genruntimeconfig.cache
