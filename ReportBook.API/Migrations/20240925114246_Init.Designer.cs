@@ -12,7 +12,7 @@ using ReportBook.DAL;
 namespace ReportBook.API.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240924225841_Init")]
+    [Migration("20240925114246_Init")]
     partial class Init
     {
         /// <inheritdoc />

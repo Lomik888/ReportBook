@@ -15,3 +15,4 @@ C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\De
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ref\ReportBook.DAL.dll
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\bin\Debug\net8.0\ReportBook.DAL.runtimeconfig.json
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.genruntimeconfig.cache
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.DAL\obj\Debug\net8.0\ReportBook.DAL.sourcelink.json

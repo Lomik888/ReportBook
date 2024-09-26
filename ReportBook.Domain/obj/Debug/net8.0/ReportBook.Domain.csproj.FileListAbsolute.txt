@@ -9,3 +9,4 @@ C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Domain\obj
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Domain\obj\Debug\net8.0\refint\ReportBook.Domain.dll
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Domain\obj\Debug\net8.0\ReportBook.Domain.pdb
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Domain\obj\Debug\net8.0\ref\ReportBook.Domain.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Domain\obj\Debug\net8.0\ReportBook.Domain.sourcelink.json

@@ -23,3 +23,4 @@ C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Applicatio
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Application\obj\Debug\net8.0\refint\ReportBook.Application.dll
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Application\obj\Debug\net8.0\ReportBook.Application.pdb
 C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Application\obj\Debug\net8.0\ref\ReportBook.Application.dll
+C:\Users\solov\OneDrive\Рабочий стол\ReportBook\ReportBook.Application\obj\Debug\net8.0\ReportBook.Application.sourcelink.json
